@@ -1,5 +1,5 @@
 {
-  "name": "audio-mixer",
+  "name": "audio-mixer.js",
   "version": "1.0.1",
   "description": "Simple audio mixer using AudioContext api",
   "main": "index.js",
