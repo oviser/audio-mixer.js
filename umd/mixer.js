@@ -39,5 +39,3 @@ class AudioMixer {
     this.audioContext.stop()
   }
 }
-
-export default AudioMixer
