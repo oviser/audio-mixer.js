@@ -1,6 +1,6 @@
 {
   "name": "audio-mixer.js",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple audio mixer using AudioContext api",
   "main": "index.js",
   "directories": {
